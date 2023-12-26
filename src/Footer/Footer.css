@@ -1,0 +1,15 @@
+.footer{
+    background-color: black;
+    height: 15dvh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    width: auto;
+}
+
+.tag{
+    color: antiquewhite;
+    font-size: 1.75rem;
+    font-weight: bold;
+}

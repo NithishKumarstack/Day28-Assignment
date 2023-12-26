@@ -1,0 +1,14 @@
+.main-dash {
+    background-color: black;
+    height: 30dvh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+}    
+
+.sty{
+    color: antiquewhite;
+    font-size: 3.00rem;
+    font-weight: bold;
+}
